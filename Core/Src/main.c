@@ -89,7 +89,7 @@ int main(void)
   MX_USART3_UART_Init();
   MX_LWIP_Init();
   /* USER CODE BEGIN 2 */
-  //httpd_init();
+  httpd_init();
   /* USER CODE END 2 */
 
   /* Infinite loop */
