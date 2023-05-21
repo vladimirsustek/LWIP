@@ -41,7 +41,7 @@
 #endif /* WITH_RTOS */
 
 /* USER CODE BEGIN 0 */
-
+void* getNetif();
 /* USER CODE END 0 */
 
 /* Global Variables ----------------------------------------------------------*/
